@@ -41,12 +41,12 @@
 }
 @media(max-width: 575px) {
     .main{
-        width: 100%;
-        height: 100%;
+        width: 640px;
+        height: 1300px;
         .container{
             .main_items{
                 .main_form{
-                    width: 640px;
+                    width: 500px;
                 }
             }
         }
